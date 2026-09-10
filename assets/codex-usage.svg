@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="272" viewBox="0 0 800 272" role="img" aria-labelledby="codex-usage-title codex-usage-desc">
-<title id="codex-usage-title">Codex usage over the last seven days</title>
+<title id="codex-usage-title">Token usage over the last seven days</title>
 <desc id="codex-usage-desc">2026-09-03: 133,995,803 tokens; 2026-09-04: 154,232,240 tokens; 2026-09-05: 250,004 tokens; 2026-09-06: 21,798,281 tokens; 2026-09-07: 77,723,094 tokens; 2026-09-08: 108,676,329 tokens; 2026-09-09: 55,221,928 tokens. Daily windows end at 19:00 Asia/Shanghai. Cached input is included once.</desc>
 <rect width="800" height="272" fill="#f5f4ed"/>
 <g font-family="Charter, Georgia, Palatino, 'Times New Roman', serif" font-weight="400" fill="#141413">
-<text x="28" y="36" font-size="18" fill="#141413" text-anchor="start" >Codex tokens</text>
+<text x="28" y="36" font-size="18" fill="#141413" text-anchor="start" >Tokens</text>
 <text x="772" y="36" font-size="12" fill="#504e49" text-anchor="end" >Last 7 days  /  Sep 03–09, 2026</text>
 <line x1="28" y1="196" x2="772" y2="196" stroke="#c2beb3" stroke-width="0.8"/>
 <text x="88" y="86.7" font-size="14" fill="#141413" text-anchor="middle" >134M</text>
