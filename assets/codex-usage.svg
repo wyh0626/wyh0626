@@ -1,33 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="272" viewBox="0 0 800 272" role="img" aria-labelledby="codex-usage-title codex-usage-desc">
 <title id="codex-usage-title">Token usage over the last seven days</title>
-<desc id="codex-usage-desc">2026-09-03: 133,995,803 tokens; 2026-09-04: 154,232,240 tokens; 2026-09-05: 250,004 tokens; 2026-09-06: 21,798,281 tokens; 2026-09-07: 77,723,094 tokens; 2026-09-08: 108,676,329 tokens; 2026-09-09: 55,221,928 tokens. Daily windows end at 19:00 Asia/Shanghai. Cached input is included once.</desc>
+<desc id="codex-usage-desc">2026-09-04: 154,232,240 tokens; 2026-09-05: 250,004 tokens; 2026-09-06: 21,798,281 tokens; 2026-09-07: 77,723,094 tokens; 2026-09-08: 108,676,329 tokens; 2026-09-09: 55,221,928 tokens; 2026-09-10: 44,892,980 tokens. Daily windows end at 19:00 Asia/Shanghai. Cached input is included once.</desc>
 <rect width="800" height="272" fill="#f5f4ed"/>
 <g font-family="Charter, Georgia, Palatino, 'Times New Roman', serif" font-weight="400" fill="#141413">
 <text x="28" y="36" font-size="18" fill="#141413" text-anchor="start" >Tokens</text>
-<text x="772" y="36" font-size="12" fill="#504e49" text-anchor="end" >Last 7 days  /  Sep 03–09, 2026</text>
+<text x="772" y="36" font-size="12" fill="#504e49" text-anchor="end" >Last 7 days  /  Sep 04–10, 2026</text>
 <line x1="28" y1="196" x2="772" y2="196" stroke="#c2beb3" stroke-width="0.8"/>
-<text x="88" y="86.7" font-size="14" fill="#141413" text-anchor="middle" >134M</text>
-<rect x="68" y="98.695" width="40" height="97.305" fill="#8a877e"/>
-<text x="88" y="216" font-size="12" fill="#504e49" text-anchor="middle" >Sep 03</text>
-<text x="192" y="72.0" font-size="14" fill="#141413" text-anchor="middle" >154.23M</text>
-<rect x="172" y="84.000" width="40" height="112.000" fill="#8a877e"/>
-<text x="192" y="216" font-size="12" fill="#504e49" text-anchor="middle" >Sep 04</text>
-<text x="296" y="183.82" font-size="14" fill="#141413" text-anchor="middle" >250K</text>
-<rect x="276" y="195.818" width="40" height="0.182" fill="#8a877e"/>
-<text x="296" y="216" font-size="12" fill="#504e49" text-anchor="middle" >Sep 05</text>
-<text x="400" y="168.17" font-size="14" fill="#141413" text-anchor="middle" >21.80M</text>
-<rect x="380" y="180.171" width="40" height="15.829" fill="#8a877e"/>
-<text x="400" y="216" font-size="12" fill="#504e49" text-anchor="middle" >Sep 06</text>
-<text x="504" y="127.56" font-size="14" fill="#141413" text-anchor="middle" >77.72M</text>
-<rect x="484" y="139.559" width="40" height="56.441" fill="#8a877e"/>
-<text x="504" y="216" font-size="12" fill="#504e49" text-anchor="middle" >Sep 07</text>
-<text x="608" y="105.08" font-size="14" fill="#141413" text-anchor="middle" >108.68M</text>
-<rect x="588" y="117.082" width="40" height="78.918" fill="#8a877e"/>
-<text x="608" y="216" font-size="12" fill="#504e49" text-anchor="middle" >Sep 08</text>
-<text x="712" y="143.9" font-size="14" fill="#1B365D" text-anchor="middle" >55.22M</text>
-<rect x="692" y="155.899" width="40" height="40.101" fill="#1B365D"/>
-<text x="712" y="216" font-size="12" fill="#504e49" text-anchor="middle" >Sep 09</text>
+<text x="88" y="72.0" font-size="14" fill="#141413" text-anchor="middle" >154.23M</text>
+<rect x="68" y="84.000" width="40" height="112.000" fill="#8a877e"/>
+<text x="88" y="216" font-size="12" fill="#504e49" text-anchor="middle" >Sep 04</text>
+<text x="192" y="183.82" font-size="14" fill="#141413" text-anchor="middle" >250K</text>
+<rect x="172" y="195.818" width="40" height="0.182" fill="#8a877e"/>
+<text x="192" y="216" font-size="12" fill="#504e49" text-anchor="middle" >Sep 05</text>
+<text x="296" y="168.17" font-size="14" fill="#141413" text-anchor="middle" >21.80M</text>
+<rect x="276" y="180.171" width="40" height="15.829" fill="#8a877e"/>
+<text x="296" y="216" font-size="12" fill="#504e49" text-anchor="middle" >Sep 06</text>
+<text x="400" y="127.56" font-size="14" fill="#141413" text-anchor="middle" >77.72M</text>
+<rect x="380" y="139.559" width="40" height="56.441" fill="#8a877e"/>
+<text x="400" y="216" font-size="12" fill="#504e49" text-anchor="middle" >Sep 07</text>
+<text x="504" y="105.08" font-size="14" fill="#141413" text-anchor="middle" >108.68M</text>
+<rect x="484" y="117.082" width="40" height="78.918" fill="#8a877e"/>
+<text x="504" y="216" font-size="12" fill="#504e49" text-anchor="middle" >Sep 08</text>
+<text x="608" y="143.9" font-size="14" fill="#141413" text-anchor="middle" >55.22M</text>
+<rect x="588" y="155.899" width="40" height="40.101" fill="#8a877e"/>
+<text x="608" y="216" font-size="12" fill="#504e49" text-anchor="middle" >Sep 09</text>
+<text x="712" y="151.4" font-size="14" fill="#1B365D" text-anchor="middle" >44.89M</text>
+<rect x="692" y="163.400" width="40" height="32.600" fill="#1B365D"/>
+<text x="712" y="216" font-size="12" fill="#504e49" text-anchor="middle" >Sep 10</text>
 <text x="28" y="252" font-size="12" fill="#504e49" text-anchor="start" >Models</text>
-<text x="92" y="252" font-size="12" fill="#141413" text-anchor="start" >gpt-5.6-sol  49.2%   ·   gpt-6-astra  43.9%   ·   Other 6.9%</text>
+<text x="92" y="252" font-size="12" fill="#141413" text-anchor="start" >gpt-6-astra  61.1%   ·   gpt-5.6-sol  32.7%   ·   Other 6.2%</text>
 </g>
 </svg>
