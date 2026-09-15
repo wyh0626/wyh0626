@@ -1,6 +1,6 @@
 ### Yinhe Wang
 
-[PanSeek](https://panseek.org/) &nbsp; / &nbsp; [AI Daily](https://ainewslog.com/) &nbsp; / &nbsp; [LeetLift](https://github.com/wyh0626/LeetLift)
+[AI Daily](https://ainewslog.com/) &nbsp; / &nbsp; [LeetLift](https://github.com/wyh0626/LeetLift)
 
 <!-- codex-usage:start -->
 <img src="https://raw.githubusercontent.com/wyh0626/wyh0626/main/assets/codex-usage.svg?v=fdea422fdd63" alt="Token usage over the last seven days and model share" width="800">
